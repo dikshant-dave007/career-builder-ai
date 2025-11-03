@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+openai
+pinecone-client
+python-dotenv
+requests
+beautifulsoup4
+newspaper3k
+pydantic
+tiktoken
