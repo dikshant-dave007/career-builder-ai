@@ -1,4 +1,4 @@
-"# CareerBuilder AI - AI-Powered Career Guidance Chatbot
+# CareerBuilder AI - AI-Powered Career Guidance Chatbot
 
 ## Overview
 CareerBuilder AI is an intelligent career guidance chatbot that provides personalized career advice, skill roadmaps, and market insights using advanced AI technologies. Built with LangChain and Azure OpenAI, it serves as a 24/7 career mentor for students and professionals seeking data-driven career guidance.
