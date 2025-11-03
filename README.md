@@ -183,4 +183,23 @@ We welcome contributions from the community. Please follow these steps:
 - Azure OpenAI for powerful language model capabilities
 - Pinecone for scalable vector database infrastructure
 - Streamlit for enabling rapid web application development
-- The open-source community for various supporting libraries" 
+- The open-source community for various supporting libraries
+
+## Code Formatting
+
+This project uses Black, isort, and flake8 for code formatting and linting.
+
+### Formatting Commands
+
+```bash
+# Format code with Black and isort
+python -m black .
+python -m isort .
+
+# Check code quality
+python -m flake8 .
+
+# Check formatting without applying
+python -m black --check .
+python -m isort --check-only .
+```
